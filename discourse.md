@@ -34,4 +34,4 @@ Think about [what would be involved in making a discussion a reality](http://dis
 
 ## Hyperlink everything
 
-The cost of somebody seeing a link that maybe isn't relevant to them (they have to take two seconds to figure that out) is *way* lower than the cost of somebody *not* seeing a link that *would have been* relevant to them (they spend several hours / weeks / months incompletely duplicating someone else's effort), so drop in links with wild abandon. (What would be *awesome* would be if we could start including these cross-discussion links [as part of the spec documents](http://discourse.wicg.io/t/outline-color-property-invert-support/932/4), but that's putting the cart before the horse right now.)
+The cost of somebody seeing a link that maybe isn't relevant to them (they have to take two seconds to figure that out) is *way* lower than the cost of somebody *not* seeing a link that *would have been* relevant to them (they spend several hours / weeks / months incompletely duplicating someone else's effort), so drop in links with wild abandon.
