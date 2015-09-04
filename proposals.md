@@ -4,7 +4,9 @@ While these are ordered roughly in descending order from easiest to hardest, you
 
 ## Join the Web Platform Incubator Community Group on W3.org
 
-Going to https://www.w3.org/community/wicg/ and joining the group states that you agree to abide by the W3C Code of Ethics and Conduct, and that you release your contributions under the terms of the [W3C’s Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/) (the CLA) - without this, key members won’t be able to review or discuss your proposal, since they can't be legally certain that you won't do something like suing the W3C for using your work without permission.
+Going to https://www.w3.org/community/wicg/ and joining the group states that you agree to abide by the [W3C Code of Ethics and Professional Conduct](http://www.w3.org/Consortium/cepc/), and that you release your contributions under the terms of the [W3C’s Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/) (the CLA) - without this, key members won’t be able to review or discuss your proposal, since they can't be legally certain that you won't do something like suing the W3C for using your specification without permission.
+
+If you want to see your spec become part of the web, you'll need to sign this stuff first, and joining the WICG group is the simplest way to do that.
 
 ## Start a thread on Discourse
 
