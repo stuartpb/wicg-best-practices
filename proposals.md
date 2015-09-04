@@ -1,5 +1,11 @@
 # Best Practices for Getting a Proposal Through WICG
 
+While these are ordered roughly in descending order from easiest to hardest, you're free to do these in any order (though doing some of the later ones without doing the earlier ones is liable to result in harder, unnecessary work):
+
+## Join the Web Platform Incubator Community Group on W3.org
+
+Going to https://www.w3.org/community/wicg/ and joining the group states that you agree to abide by the W3C Code of Ethics and Conduct, and that you release your contributions under the terms of the [W3C’s Community Contributor License Agreement](https://www.w3.org/community/about/agreements/cla/) (the CLA) - without this, key members won’t be able to review or discuss your proposal, since they can't be legally certain that you won't do something like suing the W3C for using your work without permission.
+
 ## Start a thread on Discourse
 
 This is a great starting point for you to point out any issues you've had and propose something you're thinking of that could solve it. Others will weigh in with their own experiences around this problem, and how it may be solved more easily.
