@@ -1,6 +1,6 @@
 # Best Practices for WICG Discourse
 
-(Copied from [this Discourse thread](http://discourse.wicg.io/t/wicg-best-practices/942).)
+(Moved from [this Discourse thread](http://discourse.wicg.io/t/wicg-best-practices/942).)
 
 ## Be nice
 
