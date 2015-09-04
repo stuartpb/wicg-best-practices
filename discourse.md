@@ -1,5 +1,7 @@
 # Best Practices for WICG Discourse
 
+(Copied from [this Discourse thread](http://discourse.wicg.io/t/wicg-best-practices/942).)
+
 ## Be nice
 
 Something more specific to Discourse, and already kind of touched upon by the (almost entirely hidden) [Community Guidelines](http://discourse.wicg.io/guidelines) (which sound a lot like the community guidelines from Stack Overflow and I'm pretty sure come out-of-the-box with Discourse), is a notion that I feel is best conveyed by the Wikipedia policy ["Please do not bite the newcomers"](https://en.wikipedia.org/wiki/Wikipedia:Please_do_not_bite_the_newcomers).
